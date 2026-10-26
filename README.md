@@ -149,7 +149,7 @@ https://udhaar-desk.vercel.app
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourava-coder/SOURAVA-KUMAR-SWAIN/output/github-contribution-grid-snake.svg" alt="Contribution snake for sourava-coder" width="100%" />
+  <img src="https://raw.githubusercontent.com/sourava-coder/sourava-coder/output/github-contribution-grid-snake.svg" alt="Contribution snake for sourava-coder" width="100%" />
 </p>
 
 ---
