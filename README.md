@@ -149,7 +149,7 @@ https://udhaar-desk.vercel.app
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourava-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph for sourava-coder" />
+  <img src="https://raw.githubusercontent.com/sourava-coder/SOURAVA-KUMAR-SWAIN/output/github-contribution-grid-snake.svg" alt="Contribution snake for sourava-coder" width="100%" />
 </p>
 
 ---
