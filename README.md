@@ -33,6 +33,9 @@ Explore my personal portfolio website to learn more about me and my work.
 🌐 Live Website:
 https://sourava-kumar-swain.vercel.app
 
+<p align="center">
+  <img src="" alt="My Photo" width="1000">
+</p>
 ---
 
 ### 💻 Languages
