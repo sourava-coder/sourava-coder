@@ -34,7 +34,7 @@ Explore my personal portfolio website to learn more about me and my work.
 https://sourava-kumar-swain.vercel.app
 
 <p align="center">
-  <img src="" alt="My Photo" width="1000">
+  <img src="portfolio.png" alt="My Photo" width="1000">
 </p>
 ---
 
