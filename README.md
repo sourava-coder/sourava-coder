@@ -141,7 +141,7 @@ https://udhaar-desk.vercel.app
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.instagram.com/still_sourav_.99">
+<a href="https://www.instagram.com/still.sourav_.99">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
